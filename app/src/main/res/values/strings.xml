@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">SEM_APP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string-array name="cls">
+        <item>First Year</item>
+        <item>Second Year</item>
+        <item>Third Year</item>
+        <item>Fourth Year</item>
+    </string-array>
+
+    <string-array name="branch">
+        <item>Computer Engineering</item>
+        <item>IT Engineering</item>
+        <item>ENTC Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Mechanical Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Printing Engineering</item>
+    </string-array>
+    <string-array name="sportsList">
+
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Volleyball</item>
+        <item>Basketball</item>
+        <item>Badminton(I)</item>
+        <item>Badminton(T)</item>
+        <item>Table-Tennis(T)</item>
+        <item>Table-Tennis(I)</item>
+        <item>Dodgeball</item>
+        <item>Kho-Kho</item>
+        <item>Kabaddi</item>
+        <item>Chess(T)</item>
+        <item>Chess(I)</item>
+        <item>Carrom(T)</item>
+        <item>Carrom(I)</item>
+        <item>Box-Cricket</item>
+        <item>Relay 100*4</item>
+        <item>Running 100m</item>
+
+    </string-array>
+    <string-array name="team_sports">
+        <item>Cricket</item>
+        <item>Football</item>
+        <item>Volleyball</item>
+        <item>Basketball</item>
+        <item>Badminton(T)</item>
+        <item>Dodgeball</item>
+        <item>Kho-Kho</item>
+        <item>Kabaddi</item>
+        <item>Chess(T)</item>
+        <item>Carrom(T)</item>
+        <item>Box-Cricket</item>
+        <item>Relay 100*4m</item>
+        <item>Table-Tennis(T)</item>
+    </string-array>
+    <string-array name="individual_sports">
+        <item>Badminton(I)</item>
+        <item>Chess(I)</item>
+        <item>Carrom(I)</item>
+        <item>Table-Tennis(I)</item>
+        <item>Running 100m</item>
+    </string-array>
+    <string-array name="event_type">
+        <item>Knockout</item>
+        <item>Knockout + League</item>
+    </string-array>
+    <string-array name="score_type">
+        <item>Points</item>
+        <item>Sets</item>
+    </string-array>
+    <string-array name="Sets">
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+    </string-array>
+    <string-array name="updateProfile">
+        <item>Name</item>
+        <item>Branch</item>
+        <item>Year</item>
+    </string-array>
+    <string-array name="updateTournament">
+        <item>Tournament Name</item>
+        <item>Tournament Host</item>
+        <item>Tournament Start Date</item>
+        <item>Tournament End Date</item>
+        <item>Tournament Manager Name</item>
+        <item>Tournament Manager Phone Number</item>
+    </string-array>
+    <string name="menu_first">Tournaments</string>
+    <string name="menu_second">My Profile</string>
+    <string name="menu_third">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
